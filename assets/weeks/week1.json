@@ -1,14 +1,4 @@
 {
-	"storyName": "a...",
-	"hideFreeplay": false,
-	"weekBackground": "halloween",
-	"weekBefore": "tutorial",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"startUnlocked": true,
 	"songs": [
 		[
 			"Bopeebo",
@@ -27,22 +17,33 @@
 				60,
 				80
 			]
-		]
 		],
+		[
 			"Dad Battle",
-			"dad",
+			"spooky",
 			[
-				0,
-				60,
-				80
+				255,
+				255,
+				255
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"weekName": "Week 1"
+	"weekBackground": "halloween",
+	"weekBefore": "tutorial",
+	"storyName": "a...",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "Normal, Hard"
 }
