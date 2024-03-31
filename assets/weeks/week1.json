@@ -11,7 +11,7 @@
 	"startUnlocked": true,
 	"songs": [
 		[
-			"recreated",
+			"Bopeebo",
 			"dad",
 			[
 				0,
@@ -20,7 +20,16 @@
 			]
 		],
 		[
-			"danger",
+			"Fresh",
+			"dad",
+			[
+				0,
+				60,
+				80
+			]
+		]
+		],
+			"Dad Battle",
 			"dad",
 			[
 				0,
